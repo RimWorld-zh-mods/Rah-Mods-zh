@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateAdvancedBionicEye.label>Upgrade bionic eye</CreateAdvancedBionicEye.label>
+	<CreateAdvancedBionicEye.description>Upgrades a bionic eye.</CreateAdvancedBionicEye.description>
+	<CreateAdvancedBionicEye.jobString>Upgrading bionic part</CreateAdvancedBionicEye.jobString>
+
+	<CreateAdvancedPowerArm.label>Upgrade power arm</CreateAdvancedPowerArm.label>
+	<CreateAdvancedPowerArm.description>Upgrades a power arm.</CreateAdvancedPowerArm.description>
+	<CreateAdvancedPowerArm.jobString>Upgrading bionic part</CreateAdvancedPowerArm.jobString>
+
+	<CreateAdvancedBionicArm.label>00</CreateAdvancedBionicArm.label>
+	<CreateAdvancedBionicArm.description>00</CreateAdvancedBionicArm.description>
+	<CreateAdvancedBionicArm.jobString>Upgrading bionic part</CreateAdvancedBionicArm.jobString>
+
+	<CreateAdvancedBionicHand.label>00</CreateAdvancedBionicHand.label>
+	<CreateAdvancedBionicHand.description>00</CreateAdvancedBionicHand.description>
+	<CreateAdvancedBionicHand.jobString>Upgrading bionic part</CreateAdvancedBionicHand.jobString>
+
+	<CreateAdvancedBionicFoot.label>00</CreateAdvancedBionicFoot.label>
+	<CreateAdvancedBionicFoot.description>00</CreateAdvancedBionicFoot.description>
+	<CreateAdvancedBionicFoot.jobString>Upgrading bionic part</CreateAdvancedBionicFoot.jobString>
+
+	<CreateAdvancedBionicLeg.label>00</CreateAdvancedBionicLeg.label>
+	<CreateAdvancedBionicLeg.description>00</CreateAdvancedBionicLeg.description>
+	<CreateAdvancedBionicLeg.jobString>Upgrading bionic part</CreateAdvancedBionicLeg.jobString>
+
+	<CreateAdvancedBionicEar.label>00</CreateAdvancedBionicEar.label>
+	<CreateAdvancedBionicEar.description>00</CreateAdvancedBionicEar.description>
+	<CreateAdvancedBionicEar.jobString>Upgrading bionic part</CreateAdvancedBionicEar.jobString>
+
+	<CreateAdvancedBionicSpine.label>00</CreateAdvancedBionicSpine.label>
+	<CreateAdvancedBionicSpine.description>00</CreateAdvancedBionicSpine.description>
+	<CreateAdvancedBionicSpine.jobString>Upgrading bionic part</CreateAdvancedBionicSpine.jobString>
+	
+	<CreatePowerClaw.label>Create power claw</CreatePowerClaw.label>
+	<CreatePowerClaw.description>Turns a scyther blade into a power claw.</CreatePowerClaw.description>
+	<CreatePowerClaw.jobString>Upgrading bionic part</CreatePowerClaw.jobString>
+	
+ <CreateExoskeletonSuit.label>Craft exoskeleton suit</CreateExoskeletonSuit.label>
+ <CreateExoskeletonSuit.description>Crafts an exoskeleton suit from steel, plasteel and components.</CreateExoskeletonSuit.description>
+ <CreateExoskeletonSuit.jobString>Crafting bionic part</CreateExoskeletonSuit.jobString>
+
+</LanguageData>

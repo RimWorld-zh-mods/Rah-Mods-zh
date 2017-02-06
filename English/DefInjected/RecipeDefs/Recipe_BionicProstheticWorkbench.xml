@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateBionicEye.label>Craft bionic eye</CreateBionicEye.label>
+	<CreateBionicEye.description>Crafts a bionic eye from plasteel.</CreateBionicEye.description>
+	<CreateBionicEye.jobString>Crafting bionic part</CreateBionicEye.jobString>
+
+	<CreatePowerArm.label>Craft power arm</CreatePowerArm.label>
+	<CreatePowerArm.description>Attaching a power claw to a bionic arm is not as easy as it sounds. But damn is it awesome!</CreatePowerArm.description>
+	<CreatePowerArm.jobString>Crafting bionic part</CreatePowerArm.jobString>
+
+	<CreateBionicArm.label>Craft bionic arm</CreateBionicArm.label>
+	<CreateBionicArm.description>Upgrades a simple prosthetic arm using plasteel and components.</CreateBionicArm.description>
+	<CreateBionicArm.jobString>Crafting bionic part</CreateBionicArm.jobString>
+
+	<CreateBionicHand.label>Craft bionic hand</CreateBionicHand.label>
+	<CreateBionicHand.description>Upgrades a simple prosthetic hand using plasteel and components.</CreateBionicHand.description>
+	<CreateBionicHand.jobString>Crafting bionic part</CreateBionicHand.jobString>
+
+	<CreateBionicFoot.label>Craft bionic foot</CreateBionicFoot.label>
+	<CreateBionicFoot.description>Upgrades a simple prosthetic foot using plasteel and components.</CreateBionicFoot.description>
+	<CreateBionicFoot.jobString>Crafting bionic part</CreateBionicFoot.jobString>
+
+	<CreateBionicLeg.label>Craft bionic leg</CreateBionicLeg.label>
+	<CreateBionicLeg.description>Upgrades a simple prosthetic leg using plasteel and components.</CreateBionicLeg.description>
+	<CreateBionicLeg.jobString>Crafting bionic part</CreateBionicLeg.jobString>
+
+	<CreateBionicEar.label>00</CreateBionicEar.label>
+	<CreateBionicEar.description>Crafts a bionic ear from plasteel.</CreateBionicEar.description>
+	<CreateBionicEar.jobString>Crafting bionic part</CreateBionicEar.jobString>
+
+	<CreateBionicJaw.label>00</CreateBionicJaw.label>
+	<CreateBionicJaw.description>Crafts a bionic jaw from steel and plasteel.</CreateBionicJaw.description>
+	<CreateBionicJaw.jobString>Crafting bionic part</CreateBionicJaw.jobString>
+
+	<CreateBionicSpine.label>00</CreateBionicSpine.label>
+  <CreateBionicSpine.description>Crafts a bionic spine from steel and plasteel.</CreateBionicSpine.description>
+  <CreateBionicSpine.jobString>Crafting bionic part</CreateBionicSpine.jobString>
+	
+	</LanguageData>

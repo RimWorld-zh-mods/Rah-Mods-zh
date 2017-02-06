@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	
+	<BionicHand.label>Bionic hand</BionicHand.label>
+	<BionicHand.description>Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+	
+	<BionicFoot.label>Bionic foot</BionicFoot.label>
+	<BionicFoot.description>This prosthesis grants faster walking without stumbling all the time.</BionicFoot.description>
+	
+	<BionicEar.label>Bionic ear</BionicEar.label>
+	<BionicEar.description>An advanced device that expands upon the basic functions of the ear drum.</BionicEar.description>
+	
+	<BionicJaw.label>Bionic jaw</BionicJaw.label>
+	<BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+
+	<BionicSpine.label>Bionic spine</BionicSpine.label>
+	<BionicSpine.description>This light and impressive device can replace a damaged spine.</BionicSpine.description>
+
+	<PowerArm.label>Power arm</PowerArm.label>
+	<PowerArm.description>Unparalleled strength and dexterity, and with retractable claws. This is the ultimate arm upgrade!</PowerArm.description>
+
+</LanguageData>

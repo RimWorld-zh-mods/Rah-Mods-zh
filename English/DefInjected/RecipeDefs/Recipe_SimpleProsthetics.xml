@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallSimpleProstheticHand.label>Install simple prosthetic hand</InstallSimpleProstheticHand.label>
+	<InstallSimpleProstheticHand.description>Installs simple prosthetic hand.</InstallSimpleProstheticHand.description>
+	<InstallSimpleProstheticHand.jobString>Installing simple prosthetic hand</InstallSimpleProstheticHand.jobString>
+
+	<InstallSimpleProstheticFoot.label>00</InstallSimpleProstheticFoot.label>
+	<InstallSimpleProstheticFoot.description>00</InstallSimpleProstheticFoot.description>
+	<InstallSimpleProstheticFoot.jobString>00</InstallSimpleProstheticFoot.jobString>
+
+	<InstallArtificialPelvis.label>00</InstallArtificialPelvis.label>
+	<InstallArtificialPelvis.description>00</InstallArtificialPelvis.description>
+	<InstallArtificialPelvis.jobString>00</InstallArtificialPelvis.jobString>
+
+	<InstallArtificialNose.label>00</InstallArtificialNose.label>
+	<InstallArtificialNose.description>00</InstallArtificialNose.description>
+	<InstallArtificialNose.jobString>00</InstallArtificialNose.jobString>
+
+</LanguageData>

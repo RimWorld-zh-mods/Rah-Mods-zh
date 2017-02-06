@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<ArtificialNose.label>Artificial nose</ArtificialNose.label>
+	<ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
+
+	<ArtificialPelvis.label>Artificial pelvis</ArtificialPelvis.label>
+	<ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around.</ArtificialPelvis.description>
+	
+	<SimpleProstheticHand.label>Simple prosthetic hand</SimpleProstheticHand.label>
+	<SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+	
+	<SimpleProstheticFoot.label>Simple prosthetic foot</SimpleProstheticFoot.label>
+	<SimpleProstheticFoot.description>Replaces missing feet.</SimpleProstheticFoot.description>
+
+</LanguageData>

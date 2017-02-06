@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallPowerArm.label>Install power arm</InstallPowerArm.label>
+	<InstallPowerArm.description>Installs power arm</InstallPowerArm.description>
+	<InstallPowerArm.jobString>Installing power arm</InstallPowerArm.jobString>
+
+	<InstallBionicHand.label>Install bionic hand</InstallBionicHand.label>
+	<InstallBionicHand.description>Installs bionic hand</InstallBionicHand.description>
+	<InstallBionicHand.jobString>Installing bionic hand</InstallBionicHand.jobString>
+
+	<InstallBionicFoot.label>00</InstallBionicFoot.label>
+	<InstallBionicFoot.description>00</InstallBionicFoot.description>
+	<InstallBionicFoot.jobString>00</InstallBionicFoot.jobString>
+
+	<InstallBionicEar.label>00</InstallBionicEar.label>
+	<InstallBionicEar.description>00</InstallBionicEar.description>
+	<InstallBionicEar.jobString>00</InstallBionicEar.jobString>
+
+	<InstallBionicJaw.label>00</InstallBionicJaw.label>
+	<InstallBionicJaw.description>00</InstallBionicJaw.description>
+	<InstallBionicJaw.jobString>00</InstallBionicJaw.jobString>
+
+	<InstallBionicSpine.label>00</InstallBionicSpine.label>
+	<InstallBionicSpine.description>00</InstallBionicSpine.description>
+	<InstallBionicSpine.jobString>00</InstallBionicSpine.jobString>
+
+</LanguageData>

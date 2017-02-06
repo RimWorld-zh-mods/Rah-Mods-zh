@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallJoywire.label>Install joywire</InstallJoywire.label>
+	<InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+	<InstallJoywire.jobString>Installing joywire</InstallJoywire.jobString>
+
+	<InstallPainstopper.label>00</InstallPainstopper.label>
+	<InstallPainstopper.description>00</InstallPainstopper.description>
+  <InstallPainstopper.jobString>00</InstallPainstopper.jobString>
+
+	<InstallSyntheticLung.label>00</InstallSyntheticLung.label>
+	<InstallSyntheticLung.description>00</InstallSyntheticLung.description>
+  <InstallSyntheticLung.jobString>00</InstallSyntheticLung.jobString>
+
+	<InstallSyntheticStomach.label>00</InstallSyntheticStomach.label>
+	<InstallSyntheticStomach.description>00</InstallSyntheticStomach.description>
+  <InstallSyntheticStomach.jobString>00</InstallSyntheticStomach.jobString>
+
+	<InstallSyntheticLiver.label>00</InstallSyntheticLiver.label>
+	<InstallSyntheticLiver.description>00</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.jobString>00</InstallSyntheticLiver.jobString>
+
+	<InstallSyntheticKidney.label>00</InstallSyntheticKidney.label>
+	<InstallSyntheticKidney.description>00</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.jobString>00</InstallSyntheticKidney.jobString>
+
+	<InstallSyntheticHeart.label>00</InstallSyntheticHeart.label>
+	<InstallSyntheticHeart.description>00</InstallSyntheticHeart.description>
+  <InstallSyntheticHeart.jobString>00</InstallSyntheticHeart.jobString>
+
+</LanguageData>

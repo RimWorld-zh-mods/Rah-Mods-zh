@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Leg.label>Leg</Leg.label>
+	<Leg.description>Basically long meaty sticks that let you move around.</Leg.description>
+
+	<Arm.label>Arm</Arm.label>
+	<Arm.description>Arms are like legs, except you can carry stuff with them.</Arm.description>
+
+	<Stomach.label>Stomach</Stomach.label>
+	<Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
+
+</LanguageData>

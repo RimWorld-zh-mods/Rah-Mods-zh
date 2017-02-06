@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SimpleProsthetics.label>Simple prosthetics</SimpleProsthetics.label>
+	<SimpleProsthetics.description>Study of anatomy and biomechanics that allows you to build simple prostheses and repair broken bones like clavicles, ribs and sternums.\n\nOld scars and gunshot wounds can be cured with the help of Glitterworld medicine.</SimpleProsthetics.description>
+	
+	<Bionics.label>Bionics</Bionics.label>
+	<Bionics.description>Advanced study of biomimetics and engineering. Unlocks bionic parts.</Bionics.description>
+
+	<AdvancedBionics.label>Advanced bionics</AdvancedBionics.label>
+	<AdvancedBionics.description>Further study of bionics. Unlocks powerful bionic upgrades.</AdvancedBionics.description>
+
+	<SyntheticOrgans.label>Synthetic organs</SyntheticOrgans.label>
+  <SyntheticOrgans.description>Advanced research into nano-technology. Unlocks synthetic organs.</SyntheticOrgans.description>
+
+	<Neuroscience.label>Neuroscience</Neuroscience.label>
+	<Neuroscience.description>Allows you to perform surgery on the brain. Unlocks brain implants.</Neuroscience.description>
+
+</LanguageData>

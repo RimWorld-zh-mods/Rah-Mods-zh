@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateJoywire.label>Craft joywire</CreateJoywire.label>
+	<CreateJoywire.description>Creates a joywire. Needs gold and plasteel for high quality circuitry.</CreateJoywire.description>
+  <CreateJoywire.jobString>Creating implant</CreateJoywire.jobString>
+	
+	<CreatePainstopper.label>Create painstopper</CreatePainstopper.label>
+	<CreatePainstopper.description>Creates a painstopper implant. Needs gold and plasteel for high quality circuitry.</CreatePainstopper.description>
+  <CreatePainstopper.jobString>Creating implant</CreatePainstopper.jobString>
+
+	<CreateSyntheticLung.label>Create synthetic lung</CreateSyntheticLung.label>
+	<CreateSyntheticLung.description>Creates a synthetic lung from hyperweave and plasteel.</CreateSyntheticLung.description>
+  <CreateSyntheticLung.jobString>Creating synthetic organ</CreateSyntheticLung.jobString>
+
+	<CreateSyntheticStomach.label>00</CreateSyntheticStomach.label>
+	<CreateSyntheticStomach.description>00</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.jobString>00</CreateSyntheticStomach.jobString>
+
+	<CreateSyntheticLiver.label>00</CreateSyntheticLiver.label>
+	<CreateSyntheticLiver.description>00</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.jobString>00</CreateSyntheticLiver.jobString>
+
+	<CreateSyntheticKidney.label>00</CreateSyntheticKidney.label>
+	<CreateSyntheticKidney.description>00</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.jobString>00</CreateSyntheticKidney.jobString>
+
+	<CreateSyntheticHeart.label>00</CreateSyntheticHeart.label>
+	<CreateSyntheticHeart.description>00</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.jobString>00</CreateSyntheticHeart.jobString>
+
+</LanguageData>

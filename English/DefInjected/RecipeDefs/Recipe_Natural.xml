@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallNaturalArm.label>Install arm</InstallNaturalArm.label>
+	<InstallNaturalArm.description>Installs arm.</InstallNaturalArm.description>
+	<InstallNaturalArm.jobString>Installing arm</InstallNaturalArm.jobString>
+
+	<InstallNaturalLeg.label>Install leg</InstallNaturalLeg.label>
+	<InstallNaturalLeg.description>Installs leg.</InstallNaturalLeg.description>
+	<InstallNaturalLeg.jobString>Installing leg</InstallNaturalLeg.jobString>
+
+	<InstallNaturalStomach.label>Install stomach</InstallNaturalStomach.label>
+	<InstallNaturalStomach.description>Install stomach.</InstallNaturalStomach.description>
+	<InstallNaturalStomach.jobString>Installing stomach</InstallNaturalStomach.jobString>
+
+</LanguageData>

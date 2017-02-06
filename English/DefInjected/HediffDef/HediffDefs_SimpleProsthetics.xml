@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+	<SimpleProstheticHand.label>Simple prosthetic hand</SimpleProstheticHand.label>
+	<SimpleProstheticFoot.label>Simple prosthetic foot</SimpleProstheticFoot.label>
+	<ArtificialPelvis.label>Artificial pelvis</ArtificialPelvis.label>
+	<ArtificialNose.label>Artificial nose</ArtificialNose.label>
+  <PegLeg.label>Peg leg</PegLeg.label>
+  <Denture.label>Denture</Denture.label>
+
+</LanguageData>

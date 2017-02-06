@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CureInjuryBurn.label>Cure burn</CureInjuryBurn.label>
+	<CureInjuryBurn.description>Cure burn.</CureInjuryBurn.description>
+	<CureInjuryBurn.jobString>Curing burn.</CureInjuryBurn.jobString>
+	
+  <CureInjuryCrush.label>00</CureInjuryCrush.label>
+	<CureInjuryCrush.description>00</CureInjuryCrush.description>
+	<CureInjuryCrush.jobString>00</CureInjuryCrush.jobString>
+	
+  <CureInjuryCrack.label>00</CureInjuryCrack.label>
+	<CureInjuryCrack.description>00</CureInjuryCrack.description>
+	<CureInjuryCrack.jobString>00</CureInjuryCrack.jobString>
+	
+  <CureInjuryCut.label>00</CureInjuryCut.label>
+	<CureInjuryCut.description>00</CureInjuryCut.description>
+	<CureInjuryCut.jobString>00</CureInjuryCut.jobString>
+	
+  <CureInjurySurgicalCut.label>00</CureInjurySurgicalCut.label>
+	<CureInjurySurgicalCut.description>00</CureInjurySurgicalCut.description>
+	<CureInjurySurgicalCut.jobString>00</CureInjurySurgicalCut.jobString>
+	
+  <CureInjuryScratch.label>00</CureInjuryScratch.label>
+	<CureInjuryScratch.description>00</CureInjuryScratch.description>
+	<CureInjuryScratch.jobString>00</CureInjuryScratch.jobString>
+	
+  <CureInjuryBite.label>00</CureInjuryBite.label>
+	<CureInjuryBite.description>00</CureInjuryBite.description>
+	<CureInjuryBite.jobString>00</CureInjuryBite.jobString>
+	
+  <CureInjuryStab.label>00</CureInjuryStab.label>
+	<CureInjuryStab.description>00</CureInjuryStab.description>
+	<CureInjuryStab.jobString>00</CureInjuryStab.jobString>
+	
+  <CureInjuryGunshot.label>00</CureInjuryGunshot.label>
+	<CureInjuryGunshot.description>00</CureInjuryGunshot.description>
+	<CureInjuryGunshot.jobString>00</CureInjuryGunshot.jobString>
+	
+  <CureInjuryShredded.label>00</CureInjuryShredded.label>
+	<CureInjuryShredded.description>00</CureInjuryShredded.description>
+	<CureInjuryShredded.jobString>00</CureInjuryShredded.jobString>
+	
+  <CureInjuryBruise.label>00</CureInjuryBruise.label>
+	<CureInjuryBruise.description>00</CureInjuryBruise.description>
+	<CureInjuryBruise.jobString>00</CureInjuryBruise.jobString>
+
+</LanguageData>

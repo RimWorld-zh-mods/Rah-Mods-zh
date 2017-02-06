@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SyntheticLung.label>Synthetic lung</SyntheticLung.label>
+	<SyntheticLung.description>A high-tech breathing replacement. Makes a soft whirring sound.</SyntheticLung.description>
+
+	<SyntheticStomach.label>00</SyntheticStomach.label>
+	<SyntheticStomach.description>An enhanced stomach augmented with synthetic fibres to decrease rejection rate.</SyntheticStomach.description>
+
+	<SyntheticLiver.label>00</SyntheticLiver.label>
+	<SyntheticLiver.description>An enhanced liver augmented with synthetic fibres to decrease rejection rate.</SyntheticLiver.description>
+
+	<SyntheticKidney.label>00</SyntheticKidney.label>
+	<SyntheticKidney.description>An enhanced kidney augmented with synthetic fibres to decrease rejection rate.</SyntheticKidney.description>
+
+	<SyntheticHeart.label>00</SyntheticHeart.label>
+	<SyntheticHeart.description>A top-of-the-line heart replacement. Can last for over 30 years on a single charge.</SyntheticHeart.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallAdvancedPowerArm.label>Install advanced power arm</InstallAdvancedPowerArm.label>
+	<InstallAdvancedPowerArm.description>Installs advanced power arm.</InstallAdvancedPowerArm.description>
+  <InstallAdvancedPowerArm.jobString>Installing advanced power arm</InstallAdvancedPowerArm.jobString>
+
+	<InstallAdvancedBionicArm.label>Install advanced bionic arm</InstallAdvancedBionicArm.label>
+	<InstallAdvancedBionicArm.description>Installs advanced bionic arm.</InstallAdvancedBionicArm.description>
+  <InstallAdvancedBionicArm.jobString>Installing advanced bionic arm</InstallAdvancedBionicArm.jobString>
+
+	<InstallAdvancedBionicLeg.label>00</InstallAdvancedBionicLeg.label>
+	<InstallAdvancedBionicLeg.description>00</InstallAdvancedBionicLeg.description>
+	<InstallAdvancedBionicLeg.jobString>00</InstallAdvancedBionicLeg.jobString>
+
+	<InstallAdvancedBionicHand.label>00</InstallAdvancedBionicHand.label>
+	<InstallAdvancedBionicHand.description>00</InstallAdvancedBionicHand.description>
+	<InstallAdvancedBionicHand.jobString>00</InstallAdvancedBionicHand.jobString>
+
+	<InstallAdvancedBionicFoot.label>00</InstallAdvancedBionicFoot.label>
+	<InstallAdvancedBionicFoot.description>00</InstallAdvancedBionicFoot.description>
+	<InstallAdvancedBionicFoot.jobString>00</InstallAdvancedBionicFoot.jobString>
+
+	<InstallAdvancedBionicEye.label>00</InstallAdvancedBionicEye.label>
+	<InstallAdvancedBionicEye.description>00</InstallAdvancedBionicEye.description>
+	<InstallAdvancedBionicEye.jobString>00</InstallAdvancedBionicEye.jobString>
+
+	<InstallAdvancedBionicEar.label>00</InstallAdvancedBionicEar.label>
+	<InstallAdvancedBionicEar.description>00</InstallAdvancedBionicEar.description>
+	<InstallAdvancedBionicEar.jobString>00</InstallAdvancedBionicEar.jobString>
+
+	<InstallAdvancedBionicSpine.label>00</InstallAdvancedBionicSpine.label>
+	<InstallAdvancedBionicSpine.description>00</InstallAdvancedBionicSpine.description>
+	<InstallAdvancedBionicSpine.jobString>00</InstallAdvancedBionicSpine.jobString>
+	
+  <InstallExoskeletonSuit.label>00</InstallExoskeletonSuit.label>
+	<InstallExoskeletonSuit.description>00</InstallExoskeletonSuit.description>
+  <InstallExoskeletonSuit.jobString>00</InstallExoskeletonSuit.jobString>
+
+</LanguageData>

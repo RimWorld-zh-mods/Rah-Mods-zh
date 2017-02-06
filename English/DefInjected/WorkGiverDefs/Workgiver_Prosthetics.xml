@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<DoBillsBionicWorkbench.verb>Create</DoBillsBionicWorkbench.verb>
+	<DoBillsBionicWorkbench.gerund>Creating</DoBillsBionicWorkbench.gerund>
+	
+	<DoBillsAdvancedMedicalStation.verb>Create</DoBillsAdvancedMedicalStation.verb>
+	<DoBillsAdvancedMedicalStation.gerund>Creating</DoBillsAdvancedMedicalStation.gerund>
+
+</LanguageData>

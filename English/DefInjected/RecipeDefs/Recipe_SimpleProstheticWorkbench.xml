@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateSimpleProstheticLeg.label>Craft simple prosthetic leg</CreateSimpleProstheticLeg.label>
+	<CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg from steel and components.</CreateSimpleProstheticLeg.description>
+	<CreateSimpleProstheticLeg.jobString>Crafting prosthesis.</CreateSimpleProstheticLeg.jobString>
+
+	<CreateSimpleProstheticArm.label>00</CreateSimpleProstheticArm.label>
+	<CreateSimpleProstheticArm.description>00</CreateSimpleProstheticArm.description>
+	<CreateSimpleProstheticArm.jobString>Crafting prosthesis.</CreateSimpleProstheticArm.jobString>
+
+	<CreateSimpleProstheticHand.label>00</CreateSimpleProstheticHand.label>
+	<CreateSimpleProstheticHand.description>00</CreateSimpleProstheticHand.description>
+	<CreateSimpleProstheticHand.jobString>Crafting prosthesis.</CreateSimpleProstheticHand.jobString>
+
+	<CreateSimpleProstheticFoot.label>00</CreateSimpleProstheticFoot.label>
+	<CreateSimpleProstheticFoot.description>00</CreateSimpleProstheticFoot.description>
+	<CreateSimpleProstheticFoot.jobString>Crafting prosthesis.</CreateSimpleProstheticFoot.jobString>
+
+	<CreateArtificialNose.label>Craft artificial nose</CreateArtificialNose.label>
+	<CreateArtificialNose.description>Crafts an artificial nose from plasteel.</CreateArtificialNose.description>
+	<CreateArtificialNose.jobString>Crafting prosthesis.</CreateArtificialNose.jobString>
+
+	<CreateArtificialPelvis.label>Craft artificial pelvis</CreateArtificialPelvis.label>
+	<CreateArtificialPelvis.description>Crafts an artificial pelvis from steel and plasteel.</CreateArtificialPelvis.description>
+	<CreateArtificialPelvis.jobString>Crafting prosthesis.</CreateArtificialPelvis.jobString>
+
+</LanguageData>
