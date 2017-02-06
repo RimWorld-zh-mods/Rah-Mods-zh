@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AdvancedPowerArm.label>첨단 동력 팔</AdvancedPowerArm.label>
+    <AdvancedPowerArm.description>더욱 뛰어난 힘과 기능성, 움직이는 날카로운 발톱. 이것은 궁극적인 팔의 강화형태 입니다!</AdvancedPowerArm.description>
+
+    <AdvancedBionicHand.label>첨단 생체공학 손</AdvancedBionicHand.label>
+    <AdvancedBionicHand.description>어떤 사람들은 단지 이 매력적인 손을 달기 위해 자신의 손을 자를 수 있습니다.</AdvancedBionicHand.description>
+
+    <AdvancedBionicArm.label>첨단 생체공학 팔</AdvancedBionicArm.label>
+    <AdvancedBionicArm.description>여러분은 병을 열기위해 어려움을 겪었다는 것을 기억하나요? 이제 여러분은 같은 상황에서 깨트리지 않기 위해 애를 쓸 겁니다.</AdvancedBionicArm.description>
+
+    <AdvancedBionicLeg.label>첨단 생체공학 다리</AdvancedBionicLeg.label>
+    <AdvancedBionicLeg.description>어떤 사용자는 더 빠르게 움직이기 위해 이 믿을 수 없는 기술을 가지려고 할 것입니다.</AdvancedBionicLeg.description>
+
+    <AdvancedBionicFoot.label>첨단 생체공학 발</AdvancedBionicFoot.label>
+    <AdvancedBionicFoot.description>수 많은 사람들은 이 발의 안락함과 유용함을 인정했습니다.</AdvancedBionicFoot.description>
+
+    <AdvancedBionicEar.label>첨단 생체공학 귀</AdvancedBionicEar.label>
+    <AdvancedBionicEar.description>이 장치는 사용자가 박쥐보다 더 잘 들을 수 있게 해 줍니다.</AdvancedBionicEar.description>
+
+    <AdvancedBionicEye.label>첨단 생체공학 눈</AdvancedBionicEye.label>
+    <AdvancedBionicEye.description>이 첨단 기술로 인해 사용자는 어둠 속에서뿐만이 아니라 벽을 꿰뚫어 볼 수 있습니다.</AdvancedBionicEye.description>
+
+    <AdvancedBionicSpine.label>첨단 생체공학 척추</AdvancedBionicSpine.label>
+    <AdvancedBionicSpine.description>이 획기적인 장치는 등을 지탱하며 훨씬 쉽게 작업하고 걸을 수 있게 해 줍니다.</AdvancedBionicSpine.description>
+
+    <ExoskeletonSuit.label>외골격 장갑</ExoskeletonSuit.label>
+    <ExoskeletonSuit.description>가벼운 골격과 여러 동력기로 이루어져있는 최첨단 장비로, 착용자의 허리에 가해지는 압박을 줄이면서 위력을 강화합니다.</ExoskeletonSuit.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <SimpleProsthetics.label>간단한 보철물</SimpleProsthetics.label>
+    <SimpleProsthetics.description>생체 역학과 해부학으로 인해 간단한 보철물을 만들 수 있게 하며, 번화계 약품을 이용해 흉터를 치료할 수 있습니다.</SimpleProsthetics.description>
+
+    <Bionics.label>생체공학</Bionics.label>
+    <Bionics.description>생체 모방 기술을 연구합니다. 생체공학 보철물을 생산할 수 있습니다.</Bionics.description>
+
+    <AdvancedBionics.label>첨단 생체공학</AdvancedBionics.label>
+    <AdvancedBionics.description>더 심도있는 생체공학 연구입니다. 강력한 생체공학 강화 보철물을 생산할 수 있습니다.</AdvancedBionics.description>
+
+    <SyntheticOrgans.label>인공 장기</SyntheticOrgans.label>
+    <SyntheticOrgans.description>첨단 나노 기술을 접목합니다. 인공 장기를 생산할 수 있습니다.</SyntheticOrgans.description>
+
+    <Neuroscience.label>신경 과학</Neuroscience.label>
+    <Neuroscience.description>뇌를 수술할 수 있습니다. 쾌락 회로와 통각 차단기를 생산할 수 있습니다.</Neuroscience.description>
+
+</LanguageData>

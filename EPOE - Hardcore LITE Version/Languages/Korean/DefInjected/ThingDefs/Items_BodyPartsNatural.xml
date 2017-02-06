@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Leg.label>다리</Leg.label>
+    <Leg.description>당신이 걸을 수 있도록 도와주는 긴 고기 막대입니다.</Leg.description>
+
+    <Arm.label>팔</Arm.label>
+    <Arm.description>팔은 다리와 같습니다. 물건을 잡을 수 있게 도와주는 점을 제외하면요.</Arm.description>
+
+    <Stomach.label>위</Stomach.label>
+    <Stomach.description>음식물을 소화하여 에너지와 영양분으로 바꿔줍니다.</Stomach.description>
+
+    <Heart.label>심장</Heart.label>
+    <Heart.description>온몸에 혈액과 산소를 공급합니다. 새 주인을 기다리고 있습니다.</Heart.description>
+
+    <Liver.label>간</Liver.label>
+    <Liver.description>신진대사에서 중요한 역할을 하고 있습니다.</Liver.description>
+
+    <Lung.label>폐</Lung.label>
+    <Lung.description>숨을 쉬는데 필수적인 기관입니다.</Lung.description>
+
+    <Kidney.label>신장</Kidney.label>
+    <Kidney.description>혈액에서 노폐물을 제거해줍니다.</Kidney.description>
+
+</LanguageData>

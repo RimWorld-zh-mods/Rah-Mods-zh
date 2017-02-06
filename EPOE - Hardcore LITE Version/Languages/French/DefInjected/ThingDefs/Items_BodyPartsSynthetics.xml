@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SyntheticLung.label>Poumon synthétique</SyntheticLung.label>
+   <SyntheticLung.description>Une respiration artificielle de haute technologie. Fait un bruit de ronronnement doux.</SyntheticLung.description>
+   
+	<SyntheticStomach.label>Estomac synthétique</SyntheticStomach.label>
+   <SyntheticStomach.description>Un estomac amélioré de fibres synthétiques pour réduire le taux de rejet.</SyntheticStomach.description> 
+   
+   <SyntheticLiver.label>Foie synthétique</SyntheticLiver.label>
+   <SyntheticLiver.description>Un foie amélioré de fibres synthétiques pour réduire le taux de rejet. </SyntheticLiver.description>  
+   
+   <SyntheticKidney.label>Rein synthétique</SyntheticKidney.label>
+   <SyntheticKidney.description>Un rein amélioré de fibres synthétiques pour réduire le taux de rejet.</SyntheticKidney.description>     
+   
+   <SyntheticHeart.label>Coeur synthétique</SyntheticHeart.label>
+   <SyntheticHeart.description>Un coeur de remplacement haut de gamme. Peut durer plus de 30 ans avec une seule charge.</SyntheticHeart.description>
+   
+</LanguageData>

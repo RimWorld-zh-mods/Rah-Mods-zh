@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ArtificialNose.label>인공 코</ArtificialNose.label>
+    <ArtificialNose.description>없는 코를 대체합니다. 얼굴에 뚫린 구멍을 가릴 수 있습니다.</ArtificialNose.description>
+
+    <SimpleProstheticHand.label>간이 의수</SimpleProstheticHand.label>
+    <SimpleProstheticHand.description>손을 대체합니다. 갈고리 손보다 훨씬 편안하고 덜 무섭습니다.</SimpleProstheticHand.description>
+
+    <SimpleProstheticFoot.label>간이 의족</SimpleProstheticFoot.label>
+    <SimpleProstheticFoot.description>발을 대체합니다.</SimpleProstheticFoot.description>
+
+    <SimpleProstheticLeg.label>간이 인공 다리</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>간단한 보철물로 없는 다리를 대신합니다. 아주 편하진 않지만 꽤 효율적입니다.</SimpleProstheticLeg.description>
+
+    <SimpleProstheticArm.label>간단한 인공 팔</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>간단하지만 튼튼한 팔 보철물 입니다. 팔을 대신합니다.</SimpleProstheticArm.description>
+
+    <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+    <ArtificialPelvis.description>골반을 대체합니다. 기어다니는걸 좋아하지 않는다면 꽤 유용합니다.</ArtificialPelvis.description>
+
+</LanguageData>

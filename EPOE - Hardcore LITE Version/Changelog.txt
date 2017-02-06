@@ -1,0 +1,65 @@
+1.56 - EPOE Hardcore LITE Version
+* Corrected research placement paths (thanks to Mehni for pointing it out)
+* Corrected small visual duplicate glitch with vanilla parts.
+* Peg legs and dentures are now in light blue, same as simple parts.
+
+1.55 - EPOE Hardcore LITE Version
+* Cleaned up files and version numbers.
+* New Preview image for the mod.
+* Mod added to Steam workshop.
+* Slightly lowered research costs to vanilla numbers.
+* Corrected market values.
+* Workbenches now take more time to build
+
+1.44 - EPOE Hardcore LITE Version
+* Rebalanced surgery success chance factors. Explained further on page 10 in the forum thread.
+
+1.43 - EPOE Hardcore LITE Version
+* Can now repair shattered clavicles (10 plasteel), ribs (30 steel) and sternums (40 steel) naturally.
+* Fixed bug where pawns could install available bionic parts without research.
+
+1.42 - EPOE Hardcore LITE Version
+* Will continue updates without luciferium suppression from now on. not 100% happy with it after a lot of testing.
+
+1.41 - EPOE Hardcore LITE Version
+* Slight cost reduction on artifical nose and bionic ear.
+* Removed natural eye, ear, nose and jaw harvest to enhance the importance of the bionic parts, and because of redundancy. 
+* Synthetic stomach now gives bonus to metabolism.
+
+1.4 - EPOE Hardcore LITE Version
+* Workbenches can now be moved/reinstalled
+* Added back rebalanced Luciferium suppression drug. Can only be obtained by crafting late game. Lasts over 30 days, with
+reduced luciferium bonuses. Costs approx. half the price compared to luci dosages, and gives a small mood bonus.
+* Bionic jaw now gives a bonus to eating.
+* Natural limbs can be harvested and installed. Can break balance and be buggy, but included as an addon file.
+
+1.31 - EPOE Hardcore LITE Version
+* Removed Luciferium suppression until further balancing/testing can be done
+
+1.3 - EPOE Hardcore LITE Version
+* Several balance tweaks and fixes
+* Luciferium suppression drug now available;can be crafted after research. Gives users long term relief.
+
+1.2 - EPOE Hardcore LITE Version
+* Small nerf to some bionic part bonuses. ex. advanced bionic arm manipulation down to 30% from 35%.
+
+1.1 - EPOE Hardcore LITE Version
+* Hotfix; corrected bionic hand surgery error where you needed 3 bionic hands to start surgery.
+* Fixed small issue with surgery success
+
+1.0 - EPOE Hardcore LITE Version
+* Manufacturing cost reduced on most bionic parts
+
+1.0 - EPOE Hardcore Version
+* Workbenches reduced down to 2
+* Bionic Workbench: craft simple prosthetics and bionic prosthetics.
+* Advanced Medical Station: craft advanced bionic prosthetics and synthetic organs.
+* All bionic parts now cost a lot more resources, mainly in plasteel and components.
+* Vancidium and advanced components removed.
+* EPOE mod traders removed, but all bionic parts can show up on vanilla traders.
+* Weird things like eye patches, golden eyes and wooden feet have been removed.
+* Surrogate organ crafting removed. They felt a bit redundant since we already have natural and synthetic organs.
+* Improved / added item and research info texts.
+* Old scars and gunshot wounds can be cured with glitterworld medicine. 1 medicine per injury.
+* Surgery success rate slightly corrected to be more realistic
+* ADogSaid - EPOE Hardcore Version patch. Recipes can be found at the Bionic workbench.
