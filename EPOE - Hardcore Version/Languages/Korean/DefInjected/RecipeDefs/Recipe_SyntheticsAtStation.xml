@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CreateJoywire.label>쾌락 회로 만들기</CreateJoywire.label>
+    <CreateJoywire.description>쾌락 회로를 제작합니다. 고등 기술과 금, 플라스틸이 필요합니다.</CreateJoywire.description>
+    <CreateJoywire.jobString>의학적 인공물 제작 중.</CreateJoywire.jobString>
+
+    <CreatePainstopper.label>통각 차단기 만들기</CreatePainstopper.label>
+    <CreatePainstopper.description>몸 안에 이식하는 통각 차단기를 제작합니다. 고등 기술과 금, 플라스틸이 필요합니다.</CreatePainstopper.description>
+    <CreatePainstopper.jobString>의학적 인공물 제작 중.</CreatePainstopper.jobString>
+
+    <CreateSyntheticLung.label>인공 페 만들기</CreateSyntheticLung.label>
+    <CreateSyntheticLung.description>초경조직 천과 플라스틸로 인공 폐를 제작합니다.</CreateSyntheticLung.description>
+    <CreateSyntheticLung.jobString>인공 장기 제작 중.</CreateSyntheticLung.jobString>
+
+    <CreateSyntheticStomach.label>인공 위 만들기</CreateSyntheticStomach.label>
+    <CreateSyntheticStomach.description>초경조직 천과 플라스틸로 인공 위를 제작합니다.</CreateSyntheticStomach.description>
+    <CreateSyntheticStomach.jobString>인공 장기 제작 중.</CreateSyntheticStomach.jobString>
+
+    <CreateSyntheticLiver.label>인공 간 만들기</CreateSyntheticLiver.label>
+    <CreateSyntheticLiver.description>초경조직 천과 플라스틸로 인공 간을 제작합니다.</CreateSyntheticLiver.description>
+    <CreateSyntheticLiver.jobString>인공 장기 제작 중.</CreateSyntheticLiver.jobString>
+
+    <CreateSyntheticKidney.label>인공 신장 만들기</CreateSyntheticKidney.label>
+    <CreateSyntheticKidney.description>초경조직 천과 플라스틸로 인공 신장을 제작합니다.</CreateSyntheticKidney.description>
+    <CreateSyntheticKidney.jobString>인공 장기 제작 중.</CreateSyntheticKidney.jobString>
+
+    <CreateSyntheticHeart.label>인공 심장 만들기</CreateSyntheticHeart.label>
+    <CreateSyntheticHeart.description>초경조직 천과 플라스틸로 인공 심장을 제작합니다.</CreateSyntheticHeart.description>
+    <CreateSyntheticHeart.jobString>인공 장기 제작 중.</CreateSyntheticHeart.jobString>
+
+    <CreateSyntheticSkin.label>인공 피부 만들기.</CreateSyntheticSkin.label>
+    <CreateSyntheticSkin.description>초경조직으로 인공 피부를 제작합니다..</CreateSyntheticSkin.description>
+    <CreateSyntheticSkin.jobString>인공 장기 제작 중.</CreateSyntheticSkin.jobString>
+
+</LanguageData>

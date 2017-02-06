@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SimpleProsthetics.label>Prothèses simples</SimpleProsthetics.label>
+	<SimpleProsthetics.description>L'étude de l'anatomie et de la bio-mécanique vous permet de fabriquer des prothèses simples et de réparer des os cassés tel que les clavicules, les cages thoraciques et les sternums.\n\nLes cicatrices et les blessures par balles peuvent être soignées grâce aux médicaments avancés.</SimpleProsthetics.description>
+	
+	<Bionics.label>Bioniques</Bionics.label>
+	<Bionics.description>Une étude approfondie de la biomimétique et de l'ingénierie. Débloque les parties bioniques.</Bionics.description>
+
+	<AdvancedBionics.label>Bioniques avancés</AdvancedBionics.label>
+	<AdvancedBionics.description>Des études plus approfondies sur les bioniques. Débloque de puissantes améliorations bioniques.</AdvancedBionics.description>
+
+	<SyntheticOrgans.label>Organes synthétiques</SyntheticOrgans.label>
+  <SyntheticOrgans.description>Des recherches poussées en nanotechnologie. Débloque les organes synthétiques.</SyntheticOrgans.description>
+
+	<Neuroscience.label>Neuroscience</Neuroscience.label>
+	<Neuroscience.description>Permet de procéder à des opérations chirurgicales sur le cerveau. Débloque les implants cérébraux.</Neuroscience.description>
+
+</LanguageData>

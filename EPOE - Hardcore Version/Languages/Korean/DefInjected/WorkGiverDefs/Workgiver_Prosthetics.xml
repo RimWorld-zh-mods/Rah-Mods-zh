@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <DoBillsBionicWorkbench.label>의료 장비 제작</DoBillsBionicWorkbench.label>
+    <DoBillsBionicWorkbench.verb>생산</DoBillsBionicWorkbench.verb>
+    <DoBillsBionicWorkbench.gerund>생산 중</DoBillsBionicWorkbench.gerund>
+
+    <DoBillsAdvancedMedicalStation.label>의료 장비 제작</DoBillsAdvancedMedicalStation.label>
+    <DoBillsAdvancedMedicalStation.verb>생산</DoBillsAdvancedMedicalStation.verb>
+    <DoBillsAdvancedMedicalStation.gerund>생산 중</DoBillsAdvancedMedicalStation.gerund>
+
+</LanguageData>

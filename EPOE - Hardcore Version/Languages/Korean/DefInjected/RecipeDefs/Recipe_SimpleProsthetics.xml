@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <InstallSimpleProstheticLeg.label>간이 의족(다리) 이식</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>간이 의족(다리)를 이식합니다.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>간이 의족(다리) 이식 중.</InstallSimpleProstheticLeg.jobString>
+
+    <InstallSimpleProstheticArm.label>간이 의수(팔) 이식</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>간이 의수(팔) 팔을 이식합니다.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>간이 의수(팔) 이식 중.</InstallSimpleProstheticArm.jobString>
+
+    <InstallSimpleProstheticHand.label>간이 의수(손) 이식</InstallSimpleProstheticHand.label>
+    <InstallSimpleProstheticHand.description>간이 의수(손)를 의식합니다.</InstallSimpleProstheticHand.description>
+    <InstallSimpleProstheticHand.jobString>간이 의수(손) 이식 중.</InstallSimpleProstheticHand.jobString>
+
+    <InstallSimpleProstheticFoot.label>간이 의족(발) 이식</InstallSimpleProstheticFoot.label>
+    <InstallSimpleProstheticFoot.description>간이 의족(발)을 이식합니다.</InstallSimpleProstheticFoot.description>
+    <InstallSimpleProstheticFoot.jobString>간이 의족(발) 이식 중.</InstallSimpleProstheticFoot.jobString>
+
+    <InstallArtificialNose.label>인공 코 이식</InstallArtificialNose.label>
+    <InstallArtificialNose.description>인공 코를 이식합니다</InstallArtificialNose.description>
+    <InstallArtificialNose.jobString>인공 코 이식 중.</InstallArtificialNose.jobString>
+
+    <InstallArtificialPelvis.label>인공 골반 이식</InstallArtificialPelvis.label>
+    <InstallArtificialPelvis.description>인공 골반을 이식합니다.</InstallArtificialPelvis.description>
+    <InstallArtificialPelvis.jobString>인공 골반 이식 중.</InstallArtificialPelvis.jobString>
+
+</LanguageData>

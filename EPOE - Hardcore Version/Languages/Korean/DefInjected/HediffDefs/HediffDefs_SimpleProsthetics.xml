@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <PegLeg.label>의족</PegLeg.label>
+
+    <Denture.label>틀니</Denture.label>
+
+    <SimpleProstheticHand.label>간이 의수</SimpleProstheticHand.label>
+
+    <SimpleProstheticFoot.label>간이 의족</SimpleProstheticFoot.label>
+
+    <SimpleProstheticArm.label>간이 인공 팔</SimpleProstheticArm.label>
+
+    <SimpleProstheticLeg.label>간이 인공 다리</SimpleProstheticLeg.label>
+
+    <ArtificialNose.label>인공 코</ArtificialNose.label>
+
+    <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+
+</LanguageData>
