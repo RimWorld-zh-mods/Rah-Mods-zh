@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedMedicalStation.label>advanced medical station</AdvancedMedicalStation.label>
+  <AdvancedMedicalStation.description>A medical station equipped for the production of advanced bionics and synthetic organs.</AdvancedMedicalStation.description>
+  <AdvancedMedicalStation_Blueprint.label>advanced medical station (blueprint)</AdvancedMedicalStation_Blueprint.label>
+  <AdvancedMedicalStation_Blueprint_Install.label>advanced medical station (blueprint)</AdvancedMedicalStation_Blueprint_Install.label>
+  <AdvancedMedicalStation_Frame.label>advanced medical station (building)</AdvancedMedicalStation_Frame.label>
+
+
+</LanguageData>

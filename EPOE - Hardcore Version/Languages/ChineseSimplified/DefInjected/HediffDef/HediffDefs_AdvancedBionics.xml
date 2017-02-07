@@ -9,10 +9,11 @@
   <AdvancedBionicHand.label>先进仿生手</AdvancedBionicHand.label>
   <AdvancedBionicFoot.label>先进仿生足</AdvancedBionicFoot.label>
   <AdvancedBionicEar.label>先进仿生耳</AdvancedBionicEar.label>
-  <AdvancedBionicJaw.label>先进仿生颌</AdvancedBionicJaw.label>
   <AdvancedBionicEye.label>先进仿生眼</AdvancedBionicEye.label>
   <AdvancedBionicSpine.label>先进仿生脊椎</AdvancedBionicSpine.label>
   <ExoskeletonSuit.label>外骨骼</ExoskeletonSuit.label>
 
+
+  <!--<AdvancedBionicJaw.label>先进仿生颌</AdvancedBionicJaw.label>-->
 
 </LanguageData>

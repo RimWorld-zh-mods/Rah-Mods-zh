@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairClavicle.label>repair clavicle</RepairClavicle.label>
+  <RepairClavicle.description>Repair clavicle</RepairClavicle.description>
+  <RepairClavicle.jobString>Repairing clavicle</RepairClavicle.jobString>
+
+  <RepairSternum.label>repair sternum</RepairSternum.label>
+  <RepairSternum.description>Repair Sternum</RepairSternum.description>
+  <RepairSternum.jobString>Repairing Sternum</RepairSternum.jobString>
+
+
+  <!-- RibCage -->
+
+  <RepairFirstRib.label>repair rib cage</RepairFirstRib.label>
+  <RepairFirstRib.description>Repair first rib</RepairFirstRib.description>
+  <RepairFirstRib.jobString>Repairing rib cage</RepairFirstRib.jobString>
+
+  <RepairSecondRib.label>repair rib cage</RepairSecondRib.label>
+  <RepairSecondRib.description>Repair second rib</RepairSecondRib.description>
+  <RepairSecondRib.jobString>Repairing rib cage</RepairSecondRib.jobString>
+
+  <RepairThirdRib.label>repair rib cage</RepairThirdRib.label>
+  <RepairThirdRib.description>Repair third rib</RepairThirdRib.description>
+  <RepairThirdRib.jobString>Repairing rib cage</RepairThirdRib.jobString>
+
+  <RepairFourthRib.label>repair rib cage</RepairFourthRib.label>
+  <RepairFourthRib.description>Repair fourth rib</RepairFourthRib.description>
+  <RepairFourthRib.jobString>Repairing rib cage</RepairFourthRib.jobString>
+
+  <RepairFifthRib.label>repair rib cage</RepairFifthRib.label>
+  <RepairFifthRib.description>Repair fifth rib</RepairFifthRib.description>
+  <RepairFifthRib.jobString>Repairing rib cage</RepairFifthRib.jobString>
+
+  <RepairSixthRib.label>repair rib cage</RepairSixthRib.label>
+  <RepairSixthRib.description>Repair sixth rib</RepairSixthRib.description>
+  <RepairSixthRib.jobString>Repairing rib cage</RepairSixthRib.jobString>
+
+  <RepairSeventhRib.label>repair rib cage</RepairSeventhRib.label>
+  <RepairSeventhRib.description>Repair seventh rib</RepairSeventhRib.description>
+  <RepairSeventhRib.jobString>Repairing rib cage</RepairSeventhRib.jobString>
+
+  <RepairEighthRib.label>repair rib cage</RepairEighthRib.label>
+  <RepairEighthRib.description>Repair eighth rib</RepairEighthRib.description>
+  <RepairEighthRib.jobString>Repairing rib cage</RepairEighthRib.jobString>
+
+  <RepairNinthRib.label>repair rib cage</RepairNinthRib.label>
+  <RepairNinthRib.description>Repair ninth rib</RepairNinthRib.description>
+  <RepairNinthRib.jobString>Repairing rib cage</RepairNinthRib.jobString>
+
+  <RepairTenthRib.label>repair rib cage</RepairTenthRib.label>
+  <RepairTenthRib.description>Repair tenth rib</RepairTenthRib.description>
+  <RepairTenthRib.jobString>Repairing rib cage</RepairTenthRib.jobString>
+
+  <RepairEleventhRib.label>repair rib cage</RepairEleventhRib.label>
+  <RepairEleventhRib.description>Repair eleventh rib</RepairEleventhRib.description>
+  <RepairEleventhRib.jobString>Repairing rib cage</RepairEleventhRib.jobString>
+
+  <RepairTwelfthRib.label>repair rib cage</RepairTwelfthRib.label>
+  <RepairTwelfthRib.description>Repair twelfth rib</RepairTwelfthRib.description>
+  <RepairTwelfthRib.jobString>Repairing rib cage</RepairTwelfthRib.jobString>
+
+
+</LanguageData>

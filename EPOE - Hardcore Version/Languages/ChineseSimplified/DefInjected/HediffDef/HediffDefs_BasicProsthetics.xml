@@ -3,13 +3,13 @@
 
   <!-- Added body parts -->
 
-  <SteelArm.label>铁臂</SteelArm.label>
-  <EyePatch.label>眼罩</EyePatch.label>
-  <HookHand.label>勾手</HookHand.label>
+  <!--<SteelArm.label>铁臂</SteelArm.label>-->
+  <!--<EyePatch.label>眼罩</EyePatch.label>-->
+  <!--<HookHand.label>勾手</HookHand.label>-->
   <!-- [Core] <denture.label>义齿</denture.label>-->
   <!-- [Core] <PegLeg.label>木腿</PegLeg.label>-->
-  <WoodenFoot.label>木足</WoodenFoot.label>
-  <EarBandage.label>耳绷带</EarBandage.label>
+  <!--<WoodenFoot.label>木足</WoodenFoot.label>-->
+  <!--<EarBandage.label>耳绷带</EarBandage.label>-->
 
 
 </LanguageData>

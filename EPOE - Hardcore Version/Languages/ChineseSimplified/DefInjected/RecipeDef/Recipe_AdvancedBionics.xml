@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- EPOE -->
@@ -31,10 +31,6 @@
   <InstallAdvancedBionicEar.description>安装先进仿生耳。</InstallAdvancedBionicEar.description>
   <InstallAdvancedBionicEar.jobString>正在安装先进仿生耳。</InstallAdvancedBionicEar.jobString>
 
-  <InstallAdvancedBionicJaw.label>安装先进仿生颌</InstallAdvancedBionicJaw.label>
-  <InstallAdvancedBionicJaw.description>安装先进仿生颌。</InstallAdvancedBionicJaw.description>
-  <InstallAdvancedBionicJaw.jobString>正在安装先进仿生颌。</InstallAdvancedBionicJaw.jobString>
-
   <InstallAdvancedBionicSpine.label>安装先进仿生脊椎</InstallAdvancedBionicSpine.label>
   <InstallAdvancedBionicSpine.description>安装先进仿生脊椎。</InstallAdvancedBionicSpine.description>
   <InstallAdvancedBionicSpine.jobString>正在安装先进仿生脊椎。</InstallAdvancedBionicSpine.jobString>
@@ -43,5 +39,9 @@
   <InstallExoskeletonSuit.description>安装外骨骼。</InstallExoskeletonSuit.description>
   <InstallExoskeletonSuit.jobString>正在安装外骨骼。</InstallExoskeletonSuit.jobString>
 
+
+  <!--<InstallAdvancedBionicJaw.label>安装先进仿生颌</InstallAdvancedBionicJaw.label>-->
+  <!--<InstallAdvancedBionicJaw.description>安装先进仿生颌。</InstallAdvancedBionicJaw.description>-->
+  <!--<InstallAdvancedBionicJaw.jobString>正在安装先进仿生颌。</InstallAdvancedBionicJaw.jobString>-->
 
 </LanguageData>
