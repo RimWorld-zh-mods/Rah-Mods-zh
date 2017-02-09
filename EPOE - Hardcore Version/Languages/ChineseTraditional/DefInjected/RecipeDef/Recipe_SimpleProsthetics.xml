@@ -31,17 +31,4 @@
   <InstallArtificialPelvis.jobString>正在安裝人造骨盆。</InstallArtificialPelvis.jobString>
 
 
-  <!-- [Core] <InstallSimpleProstheticLeg.label>安裝簡易的假腿</InstallSimpleProstheticLeg.label>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.description>安裝簡易的假腿。</InstallSimpleProstheticLeg.description>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.jobString>正在安裝簡易的假腿。</InstallSimpleProstheticLeg.jobString>-->
-  <!-- [Core] <InstallSimpleProstheticArm.label>安裝簡易的假臂</InstallSimpleProstheticArm.label>-->
-  <!-- [Core] <InstallSimpleProstheticArm.description>安裝簡易的假臂。</InstallSimpleProstheticArm.description>-->
-  <!-- [Core] <InstallSimpleProstheticArm.jobString>正在安裝簡易的假臂。</InstallSimpleProstheticArm.jobString>-->
-  <!--<InstallGoldenEye.label>安裝黃金眼</InstallGoldenEye.label>-->
-  <!--<InstallGoldenEye.description>安裝黃金眼。</InstallGoldenEye.description>-->
-  <!--<InstallGoldenEye.jobString>正在安裝黃金眼。</InstallGoldenEye.jobString>-->
-  <!--<InstallHydraulicJaw.label>安裝液壓頜</InstallHydraulicJaw.label>-->
-  <!--<InstallHydraulicJaw.description>安裝液壓頜。</InstallHydraulicJaw.description>-->
-  <!--<InstallHydraulicJaw.jobString>正在安裝液壓頜。</InstallHydraulicJaw.jobString>-->
-
 </LanguageData>

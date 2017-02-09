@@ -26,11 +26,4 @@
   <CreateArtificialPelvis.jobString>正在制作假体</CreateArtificialPelvis.jobString>
 
 
-  <!--<CreateHydraulicJaw.label>制作液压颌</CreateHydraulicJaw.label>-->
-  <!--<CreateHydraulicJaw.description>使用钢铁和零部件制作液压颌。</CreateHydraulicJaw.description>-->
-  <!--<CreateHydraulicJaw.jobString>正在制作假体</CreateHydraulicJaw.jobString>-->
-  <!--<CreateGoldenEye.label>制作黄金眼</CreateGoldenEye.label>-->
-  <!--<CreateGoldenEye.description>金条 + 锤子 = 黄金眼。</CreateGoldenEye.description>-->
-  <!--<CreateGoldenEye.jobString>正在制作假体</CreateGoldenEye.jobString>-->
-
 </LanguageData>

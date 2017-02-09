@@ -3,79 +3,79 @@
 
   <!-- Injury: Burn -->
 
-  <CureInjuryBurn.label>cure burn</CureInjuryBurn.label>
-  <CureInjuryBurn.description>Cure burn.</CureInjuryBurn.description>
-  <CureInjuryBurn.jobString>Curing burn.</CureInjuryBurn.jobString>
+  <CureInjuryBurn.label>治療燒傷</CureInjuryBurn.label>
+  <CureInjuryBurn.description>治療燒傷。</CureInjuryBurn.description>
+  <CureInjuryBurn.jobString>正在治療燒傷。</CureInjuryBurn.jobString>
 
 
   <!-- Injury: Crush -->
 
-  <CureInjuryCrush.label>cure crush</CureInjuryCrush.label>
-  <CureInjuryCrush.description>Cure crush.</CureInjuryCrush.description>
-  <CureInjuryCrush.jobString>Curing crush.</CureInjuryCrush.jobString>
+  <CureInjuryCrush.label>治療粉碎傷</CureInjuryCrush.label>
+  <CureInjuryCrush.description>治療粉碎傷。</CureInjuryCrush.description>
+  <CureInjuryCrush.jobString>正在治療粉碎傷。</CureInjuryCrush.jobString>
 
 
   <!-- Injury: Crack -->
 
-  <CureInjuryCrack.label>cure crack</CureInjuryCrack.label>
-  <CureInjuryCrack.description>Cure crack.</CureInjuryCrack.description>
-  <CureInjuryCrack.jobString>Curing crack.</CureInjuryCrack.jobString>
+  <CureInjuryCrack.label>治療小傷口</CureInjuryCrack.label>
+  <CureInjuryCrack.description>治療小傷口。</CureInjuryCrack.description>
+  <CureInjuryCrack.jobString>正在治療小傷口。</CureInjuryCrack.jobString>
 
 
   <!-- Injury: Cut -->
 
-  <CureInjuryCut.label>cure cut</CureInjuryCut.label>
-  <CureInjuryCut.description>Cure cut.</CureInjuryCut.description>
-  <CureInjuryCut.jobString>Curing cut.</CureInjuryCut.jobString>
+  <CureInjuryCut.label>治療砍傷</CureInjuryCut.label>
+  <CureInjuryCut.description>治療砍傷。</CureInjuryCut.description>
+  <CureInjuryCut.jobString>正在治療砍傷。</CureInjuryCut.jobString>
 
 
   <!-- Injury: SurgicalCut -->
 
-  <CureInjurySurgicalCut.label>cure surgical cut</CureInjurySurgicalCut.label>
-  <CureInjurySurgicalCut.description>Cure surgical cut.</CureInjurySurgicalCut.description>
-  <CureInjurySurgicalCut.jobString>Curing surgical cut.</CureInjurySurgicalCut.jobString>
+  <CureInjurySurgicalCut.label>治療手術傷</CureInjurySurgicalCut.label>
+  <CureInjurySurgicalCut.description>治療手術傷。</CureInjurySurgicalCut.description>
+  <CureInjurySurgicalCut.jobString>正在治療手術傷。</CureInjurySurgicalCut.jobString>
 
 
   <!-- Injury: Scratch -->
 
-  <CureInjuryScratch.label>cure scratch</CureInjuryScratch.label>
-  <CureInjuryScratch.description>Cure scratch.</CureInjuryScratch.description>
-  <CureInjuryScratch.jobString>Curing scratch.</CureInjuryScratch.jobString>
+  <CureInjuryScratch.label>治療抓傷</CureInjuryScratch.label>
+  <CureInjuryScratch.description>治療抓傷。</CureInjuryScratch.description>
+  <CureInjuryScratch.jobString>正在治療抓傷。</CureInjuryScratch.jobString>
 
 
   <!-- Injury: Bite -->
 
-  <CureInjuryBite.label>cure bite</CureInjuryBite.label>
-  <CureInjuryBite.description>Cure bite.</CureInjuryBite.description>
-  <CureInjuryBite.jobString>Curing bite.</CureInjuryBite.jobString>
+  <CureInjuryBite.label>治療咬傷</CureInjuryBite.label>
+  <CureInjuryBite.description>治療咬傷。</CureInjuryBite.description>
+  <CureInjuryBite.jobString>正在治療咬傷。</CureInjuryBite.jobString>
 
 
   <!-- Injury: Stab -->
 
-  <CureInjuryStab.label>cure stab</CureInjuryStab.label>
-  <CureInjuryStab.description>Cure stab.</CureInjuryStab.description>
-  <CureInjuryStab.jobString>Curing stab.</CureInjuryStab.jobString>
+  <CureInjuryStab.label>治療刺傷</CureInjuryStab.label>
+  <CureInjuryStab.description>治療刺傷。</CureInjuryStab.description>
+  <CureInjuryStab.jobString>正在治療刺傷。</CureInjuryStab.jobString>
 
 
   <!-- Injury: Gunshot -->
 
-  <CureInjuryGunshot.label>cure gunshot</CureInjuryGunshot.label>
-  <CureInjuryGunshot.description>Cure gunshot.</CureInjuryGunshot.description>
-  <CureInjuryGunshot.jobString>Curing gunshot.</CureInjuryGunshot.jobString>
+  <CureInjuryGunshot.label>治療槍傷</CureInjuryGunshot.label>
+  <CureInjuryGunshot.description>治療槍傷。</CureInjuryGunshot.description>
+  <CureInjuryGunshot.jobString>正在治療槍傷。</CureInjuryGunshot.jobString>
 
 
   <!-- Injury: Shredded -->
 
-  <CureInjuryShredded.label>cure shredded</CureInjuryShredded.label>
-  <CureInjuryShredded.description>Cure shredded.</CureInjuryShredded.description>
-  <CureInjuryShredded.jobString>Curing shredded.</CureInjuryShredded.jobString>
+  <CureInjuryShredded.label>治療撕炸傷</CureInjuryShredded.label>
+  <CureInjuryShredded.description>治療撕炸傷。</CureInjuryShredded.description>
+  <CureInjuryShredded.jobString>正在治療撕炸傷。</CureInjuryShredded.jobString>
 
 
   <!-- Injury: Bruise -->
 
-  <CureInjuryBruise.label>cure bruise</CureInjuryBruise.label>
-  <CureInjuryBruise.description>Cure bruise.</CureInjuryBruise.description>
-  <CureInjuryBruise.jobString>Curing bruise.</CureInjuryBruise.jobString>
+  <CureInjuryBruise.label>治療挫傷</CureInjuryBruise.label>
+  <CureInjuryBruise.description>治療挫傷。</CureInjuryBruise.description>
+  <CureInjuryBruise.jobString>正在治療挫傷。</CureInjuryBruise.jobString>
 
 
 </LanguageData>

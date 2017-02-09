@@ -2,25 +2,12 @@
 <LanguageData>
 
   <DoBillsBionicWorkbench.label>製作仿生假體</DoBillsBionicWorkbench.label>
-  <DoBillsBionicWorkbench.verb>組裝</DoBillsBionicWorkbench.verb>
-  <DoBillsBionicWorkbench.gerund>組裝</DoBillsBionicWorkbench.gerund>
+  <DoBillsBionicWorkbench.verb>製作</DoBillsBionicWorkbench.verb>
+  <DoBillsBionicWorkbench.gerund>製作</DoBillsBionicWorkbench.gerund>
 
-  <DoBillsAdvancedMedicalStation.label>Craft medical item</DoBillsAdvancedMedicalStation.label>
-  <DoBillsAdvancedMedicalStation.verb>create</DoBillsAdvancedMedicalStation.verb>
-  <DoBillsAdvancedMedicalStation.gerund>creating</DoBillsAdvancedMedicalStation.gerund>
+  <DoBillsAdvancedMedicalStation.label>製作醫療物品</DoBillsAdvancedMedicalStation.label>
+  <DoBillsAdvancedMedicalStation.verb>製作</DoBillsAdvancedMedicalStation.verb>
+  <DoBillsAdvancedMedicalStation.gerund>製作</DoBillsAdvancedMedicalStation.gerund>
 
-
-  <!--<DoBillsTableSurrogates.label>製作替代體器官</DoBillsTableSurrogates.label>-->
-  <!--<DoBillsTableSurrogates.verb>製作</DoBillsTableSurrogates.verb>-->
-  <!--<DoBillsTableSurrogates.gerund>製作</DoBillsTableSurrogates.gerund>-->
-  <!--<DoBillsUpgradingStation.label>升級假體</DoBillsUpgradingStation.label>-->
-  <!--<DoBillsUpgradingStation.verb>升級</DoBillsUpgradingStation.verb>-->
-  <!--<DoBillsUpgradingStation.gerund>升級</DoBillsUpgradingStation.gerund>-->
-  <!--<DoBillsSimpleProstheticWorkbench.label>製作簡單假體</DoBillsSimpleProstheticWorkbench.label>-->
-  <!--<DoBillsSimpleProstheticWorkbench.verb>組裝</DoBillsSimpleProstheticWorkbench.verb>-->
-  <!--<DoBillsSimpleProstheticWorkbench.gerund>組裝</DoBillsSimpleProstheticWorkbench.gerund>-->
-  <!--<DoBillsBasicProstheticWorkbench.label>製作基本假體</DoBillsBasicProstheticWorkbench.label>-->
-  <!--<DoBillsBasicProstheticWorkbench.verb>組裝</DoBillsBasicProstheticWorkbench.verb>-->
-  <!--<DoBillsBasicProstheticWorkbench.gerund>組裝</DoBillsBasicProstheticWorkbench.gerund>-->
 
 </LanguageData>

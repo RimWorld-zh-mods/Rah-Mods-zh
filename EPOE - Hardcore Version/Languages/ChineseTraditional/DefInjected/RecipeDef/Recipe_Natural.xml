@@ -43,29 +43,4 @@
   <InstallNaturalStomach.jobString>正在植入胃。</InstallNaturalStomach.jobString>
 
 
-  <!-- [Core] <InstallNaturalHeart.label>植入心臟</InstallNaturalHeart.label>-->
-  <!-- [Core] <InstallNaturalHeart.description>將心臟植入身體。</InstallNaturalHeart.description>-->
-  <!-- [Core] <InstallNaturalHeart.jobString>正在植入心臟。</InstallNaturalHeart.jobString>-->
-  <!-- [Core] <InstallNaturalLiver.label>植入肝臟</InstallNaturalLiver.label>-->
-  <!-- [Core] <InstallNaturalLiver.description>將肝臟植入身體。</InstallNaturalLiver.description>-->
-  <!-- [Core] <InstallNaturalLiver.jobString>正在植入肝臟。</InstallNaturalLiver.jobString>-->
-  <!-- [Core] <InstallNaturalKidney.label>植入腎臟</InstallNaturalKidney.label>-->
-  <!-- [Core] <InstallNaturalKidney.description>將腎臟植入身體。</InstallNaturalKidney.description>-->
-  <!-- [Core] <InstallNaturalKidney.jobString>正在植入腎臟。</InstallNaturalKidney.jobString>-->
-  <!-- [Core] <InstallNaturalLung.label>植入肺</InstallNaturalLung.label>-->
-  <!-- [Core] <InstallNaturalLung.description>將肺植入身體。</InstallNaturalLung.description>-->
-  <!-- [Core] <InstallNaturalLung.jobString>正在植入肺。</InstallNaturalLung.jobString>-->
-  <!--<InstallNaturalEye.label>植入眼球</InstallNaturalEye.label>-->
-  <!--<InstallNaturalEye.description>植入眼球。</InstallNaturalEye.description>-->
-  <!--<InstallNaturalEye.jobString>正在植入眼球。</InstallNaturalEye.jobString>-->
-  <!--<InstallNaturalNose.label>移植鼻子</InstallNaturalNose.label>-->
-  <!--<InstallNaturalNose.description>移植鼻子。</InstallNaturalNose.description>-->
-  <!--<InstallNaturalNose.jobString>移植鼻子。</InstallNaturalNose.jobString>-->
-  <!--<InstallNaturalEar.label>移植耳朵</InstallNaturalEar.label>-->
-  <!--<InstallNaturalEar.description>移植耳朵。</InstallNaturalEar.description>-->
-  <!--<InstallNaturalEar.jobString>正在移植耳朵。</InstallNaturalEar.jobString>-->
-  <!--<InstallNaturalJaw.label>移植下頜</InstallNaturalJaw.label>-->
-  <!--<InstallNaturalJaw.description>移植下頜。</InstallNaturalJaw.description>-->
-  <!--<InstallNaturalJaw.jobString>正在移植下頜。</InstallNaturalJaw.jobString>-->
-
 </LanguageData>
