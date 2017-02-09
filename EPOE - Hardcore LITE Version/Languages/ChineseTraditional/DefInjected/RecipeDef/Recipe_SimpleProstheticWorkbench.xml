@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CreateSimpleProstheticLeg.label>製作簡易的假腿</CreateSimpleProstheticLeg.label>
@@ -20,14 +20,6 @@
   <CreateArtificialNose.label>製作人造鼻</CreateArtificialNose.label>
   <CreateArtificialNose.description>使用塑鋼製作人造鼻。</CreateArtificialNose.description>
   <CreateArtificialNose.jobString>正在製作假體</CreateArtificialNose.jobString>
-
-  <CreateHydraulicJaw.label>製作液壓頜</CreateHydraulicJaw.label>
-  <CreateHydraulicJaw.description>使用鋼鐵和零部件製作液壓頜。</CreateHydraulicJaw.description>
-  <CreateHydraulicJaw.jobString>正在製作假體</CreateHydraulicJaw.jobString>
-
-  <CreateGoldenEye.label>製作黃金眼</CreateGoldenEye.label>
-  <CreateGoldenEye.description>金條 + 錘子 = 黃金眼。</CreateGoldenEye.description>
-  <CreateGoldenEye.jobString>正在製作假體</CreateGoldenEye.jobString>
 
   <CreateArtificialPelvis.label>製作人造骨盆</CreateArtificialPelvis.label>
   <CreateArtificialPelvis.description>使用鋼鐵和塑鋼製作人造骨盆。</CreateArtificialPelvis.description>

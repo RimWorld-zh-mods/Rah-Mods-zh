@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- EPOE -->
@@ -30,10 +30,6 @@
   <InstallAdvancedBionicEar.label>安裝先進仿生耳</InstallAdvancedBionicEar.label>
   <InstallAdvancedBionicEar.description>安裝先進仿生耳。</InstallAdvancedBionicEar.description>
   <InstallAdvancedBionicEar.jobString>正在安裝先進仿生耳。</InstallAdvancedBionicEar.jobString>
-
-  <InstallAdvancedBionicJaw.label>安裝先進仿生頜</InstallAdvancedBionicJaw.label>
-  <InstallAdvancedBionicJaw.description>安裝先進仿生頜。</InstallAdvancedBionicJaw.description>
-  <InstallAdvancedBionicJaw.jobString>正在安裝先進仿生頜。</InstallAdvancedBionicJaw.jobString>
 
   <InstallAdvancedBionicSpine.label>安裝先進仿生脊椎</InstallAdvancedBionicSpine.label>
   <InstallAdvancedBionicSpine.description>安裝先進仿生脊椎。</InstallAdvancedBionicSpine.description>

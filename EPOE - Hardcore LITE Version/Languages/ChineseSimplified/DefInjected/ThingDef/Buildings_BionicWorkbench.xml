@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TableBionics.label>仿生体工作台</TableBionics.label>
-  <TableBionics.description>用于生产高科技仿生体的工作台。</TableBionics.description>
+  <BionicWorkbench.label>bionic workbench</BionicWorkbench.label>
+  <BionicWorkbench.description>A workbench equipped for the production of simple to high tech bionics.</BionicWorkbench.description>
+  <BionicWorkbench_Blueprint.label>bionic workbench (blueprint)</BionicWorkbench_Blueprint.label>
+  <BionicWorkbench_Blueprint_Install.label>bionic workbench (blueprint)</BionicWorkbench_Blueprint_Install.label>
+  <BionicWorkbench_Frame.label>bionic workbench (building)</BionicWorkbench_Frame.label>
 
+
+  <!--<TableBionics.label>仿生体工作台</TableBionics.label>-->
+  <!--<TableBionics.description>用于生产高科技仿生体的工作台。</TableBionics.description>-->
 
 </LanguageData>

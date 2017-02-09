@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Added body parts -->
@@ -20,9 +20,6 @@
 
   <AdvancedBionicEar.label>先進仿生耳</AdvancedBionicEar.label>
   <AdvancedBionicEar.description>這個設備讓使用者擁有比蝙蝠還優秀的聽力。</AdvancedBionicEar.description>
-
-  <AdvancedBionicJaw.label>先進仿生頜</AdvancedBionicJaw.label>
-  <AdvancedBionicJaw.description>這個下頜發出是聲音是如此美妙，甚至連機器人都會駐足聆聽。</AdvancedBionicJaw.description>
 
   <AdvancedBionicEye.label>先進仿生眼</AdvancedBionicEye.label>
   <AdvancedBionicEye.description>這項先進技術除了讓使用者在黑暗中也擁有完美的視力，還能透視墻壁。</AdvancedBionicEye.description>

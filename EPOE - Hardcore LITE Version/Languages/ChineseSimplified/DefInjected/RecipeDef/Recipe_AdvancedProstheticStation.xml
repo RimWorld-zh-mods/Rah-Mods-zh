@@ -25,10 +25,6 @@
   <CreateAdvancedBionicLeg.description>使用超钒升级仿生腿。</CreateAdvancedBionicLeg.description>
   <CreateAdvancedBionicLeg.jobString>正在升级仿生体。</CreateAdvancedBionicLeg.jobString>
 
-  <CreateAdvancedBionicJaw.label>升级仿生颌</CreateAdvancedBionicJaw.label>
-  <CreateAdvancedBionicJaw.description>使用超钒升级仿生颌。</CreateAdvancedBionicJaw.description>
-  <CreateAdvancedBionicJaw.jobString>正在升级仿生体。</CreateAdvancedBionicJaw.jobString>
-
   <CreateAdvancedBionicEar.label>升级仿生耳</CreateAdvancedBionicEar.label>
   <CreateAdvancedBionicEar.description>使用超钒升级仿生耳。</CreateAdvancedBionicEar.description>
   <CreateAdvancedBionicEar.jobString>正在升级仿生体。</CreateAdvancedBionicEar.jobString>

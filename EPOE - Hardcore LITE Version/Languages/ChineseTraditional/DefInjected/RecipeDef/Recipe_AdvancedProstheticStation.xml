@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CreateAdvancedBionicEye.label>升級仿生眼</CreateAdvancedBionicEye.label>
@@ -24,10 +24,6 @@
   <CreateAdvancedBionicLeg.label>升級仿生腿</CreateAdvancedBionicLeg.label>
   <CreateAdvancedBionicLeg.description>使用超釩升級仿生腿。</CreateAdvancedBionicLeg.description>
   <CreateAdvancedBionicLeg.jobString>正在升級仿生體。</CreateAdvancedBionicLeg.jobString>
-
-  <CreateAdvancedBionicJaw.label>升級仿生頜</CreateAdvancedBionicJaw.label>
-  <CreateAdvancedBionicJaw.description>使用超釩升級仿生頜。</CreateAdvancedBionicJaw.description>
-  <CreateAdvancedBionicJaw.jobString>正在升級仿生體。</CreateAdvancedBionicJaw.jobString>
 
   <CreateAdvancedBionicEar.label>升級仿生耳</CreateAdvancedBionicEar.label>
   <CreateAdvancedBionicEar.description>使用超釩升級仿生耳。</CreateAdvancedBionicEar.description>
